@@ -27,6 +27,7 @@ listItems ();
 function empty () {
     basket = '';
 }
+console.log(`Basket is now ${basket}`);
 
 //console.log (Basket is now '');
 
